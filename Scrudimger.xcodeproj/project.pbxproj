@@ -27,6 +27,8 @@
 		8D4DCEA5287758AA00C7EBD0 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4DCEA3287758AA00C7EBD0 /* DetailView.swift */; };
 		8D4DCEAA2877918F00C7EBD0 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4DCEA92877918F00C7EBD0 /* DetailEditView.swift */; };
 		8D4DCEAB2877918F00C7EBD0 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4DCEA92877918F00C7EBD0 /* DetailEditView.swift */; };
+		8D6304BC28807193002456C1 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6304BB28807193002456C1 /* ThemeView.swift */; };
+		8D6304BD28807193002456C1 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6304BB28807193002456C1 /* ThemeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +45,7 @@
 		8D4DCEA02877544B00C7EBD0 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		8D4DCEA3287758AA00C7EBD0 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		8D4DCEA92877918F00C7EBD0 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
+		8D6304BB28807193002456C1 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				8D4DCEA02877544B00C7EBD0 /* ScrumsView.swift */,
+				8D6304BB28807193002456C1 /* ThemeView.swift */,
 				8D4DCE7528774F7300C7EBD0 /* ScrudimgerApp.swift */,
 				8D4DCEA3287758AA00C7EBD0 /* DetailView.swift */,
 				8D4DCE93287750BB00C7EBD0 /* Models */,
@@ -220,6 +224,7 @@
 				8D4DCE8728774F7700C7EBD0 /* MeetingView.swift in Sources */,
 				8D4DCEAA2877918F00C7EBD0 /* DetailEditView.swift in Sources */,
 				8D4DCE8528774F7700C7EBD0 /* ScrudimgerApp.swift in Sources */,
+				8D6304BC28807193002456C1 /* ThemeView.swift in Sources */,
 				8D4DCE9B2877514600C7EBD0 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -236,6 +241,7 @@
 				8D4DCE8828774F7700C7EBD0 /* MeetingView.swift in Sources */,
 				8D4DCEAB2877918F00C7EBD0 /* DetailEditView.swift in Sources */,
 				8D4DCE8628774F7700C7EBD0 /* ScrudimgerApp.swift in Sources */,
+				8D6304BD28807193002456C1 /* ThemeView.swift in Sources */,
 				8D4DCE9C2877514600C7EBD0 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
