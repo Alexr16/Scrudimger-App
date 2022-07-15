@@ -39,6 +39,8 @@
 		8D6378262881DB5800CEE022 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6378242881DB5800CEE022 /* MeetingFooterView.swift */; };
 		8D6378282881DE7200CEE022 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6378272881DE7200CEE022 /* AVPlayer+Ding.swift */; };
 		8D6378292881DE7200CEE022 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6378272881DE7200CEE022 /* AVPlayer+Ding.swift */; };
+		8D63782B2881E1A300CEE022 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D63782A2881E1A300CEE022 /* History.swift */; };
+		8D63782C2881E1A300CEE022 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D63782A2881E1A300CEE022 /* History.swift */; };
 		8DEDAFAD2881C30900420826 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DEDAFAC2881C30900420826 /* ScrumTimer.swift */; };
 		8DEDAFAE2881C30900420826 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DEDAFAC2881C30900420826 /* ScrumTimer.swift */; };
 /* End PBXBuildFile section */
@@ -63,6 +65,7 @@
 		8D6378212881D8C600CEE022 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		8D6378242881DB5800CEE022 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		8D6378272881DE7200CEE022 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
+		8D63782A2881E1A300CEE022 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		8DEDAFAC2881C30900420826 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -138,6 +141,7 @@
 				8DEDAFAC2881C30900420826 /* ScrumTimer.swift */,
 				8D6378272881DE7200CEE022 /* AVPlayer+Ding.swift */,
 				8D4DCE972877511F00C7EBD0 /* DailyScrum.swift */,
+				8D63782A2881E1A300CEE022 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -240,6 +244,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D63782B2881E1A300CEE022 /* History.swift in Sources */,
 				8D6304BF28807983002456C1 /* ThemePicker.swift in Sources */,
 				8D4DCE982877511F00C7EBD0 /* DailyScrum.swift in Sources */,
 				8D6378252881DB5800CEE022 /* MeetingFooterView.swift in Sources */,
@@ -263,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D63782C2881E1A300CEE022 /* History.swift in Sources */,
 				8D6304C028807983002456C1 /* ThemePicker.swift in Sources */,
 				8D4DCE992877511F00C7EBD0 /* DailyScrum.swift in Sources */,
 				8D6378262881DB5800CEE022 /* MeetingFooterView.swift in Sources */,
